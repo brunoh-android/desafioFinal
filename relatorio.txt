@@ -1,0 +1,86 @@
+
+<b>Organização do Tempo<b>
+
+Eu programei de terminar o projeto ate no maximo domingo a noite, comecei o projeto
+no sabado de manhã, iniciei pelo mais facil que era html e css ,deixando a parte de JS para o restante do prazo. Porem eu excedi
+o prazo programado, o script levou mais tempo do que eu esperava e so consegui finalizar na segunda a tarde.
+
+<b>Etapas<b>
+● HTML
+● CSS basico para que as 4 imagens e os nomes estejam centralizados e dimensionados
+● JS 	ver aula 4 do Mini Curso e ver o que eu poderia reaproveitar
+	fazer a fetch
+	encontrar uma maneira de puxar as 4 imagens de um vez
+	colocar uma função para iniciar o JS sempre que a pagina for atualizada
+
+● Relatorio do projeto
+
+
+<Caminho para o resultado>
+
+● HTML
+
+Essa foi a parte mais tranquila não tive nenhuma dificuldade em construir
+e fazer as alterações.
+
+Peguei o meu projeto pronto do Mini Curso e retirei as partes do codigo que eu não ia utilizar.
+
+Onde era o nome do Personagem no Mini Curso estava escrito em <p>, mas ao 
+tentar deixar que todas as imagens e os nomes ficassem centralizados
+o paragrafo sempre ficava fora do centro, foi ai que tive a ideia de 
+colocar um <H3> e deixar tudo centralizado.
+
+Para dar certo de colocar o estilo CARD no css foi necessario criar algumas "DIV class" 
+
+Observei que no JavaScript tinha a parte de fazer referencia 
+por ID, entao eu coloquei um ID em cada img e h3, finalizando o HTML.
+
+
+● CSS
+
+Aqui tambem foi um tranquilo mas um pouco trabalhoso.
+
+Eu peguei partes do codigo do Mini Curso so pra demarcar
+o terreno e ter idea do que eu tinha que modificar.
+
+Eu conseguir deixar tudo centralizado e de facil visualização. Mas tinha 
+ficado muito simples e sem vida e como eu tinha tempo foi pesquisar
+alguns estilos no w3School e mesclei algumas partes do estilo CARD com outros. 
+
+Como o button ja estava la resolvi deixar e dar uma função para ele que é a mesma 
+que atualizar a pagina.
+
+
+● JAVA SCRIPT
+
+Aqui é onde o filho chora e a mãe não vê. Essa foi minha maior dificuldade
+
+A planejamento era de finalizar tudo ate domingo, mas quando cheguei na parte de 
+puxar as imagens eu achei que não ia conseguir entregar a tempo. 
+Passei 2 dias coletando informações sobre a fatch e maneiras de puxar mais dados de uma só vez
+e fui testando muitos codigos  
+
+Comecei olhando o codigo do Mini Curso e colocando as CONST.
+
+Depois copiei a formula do numero aleatorio
+
+Depois de muita pesquisa, ver videos e fazer perguntas encontrei em algum video um exemplo
+parecido de puxar varias informações de uma só vez, era necessario um array e for, no array eu
+conseguria gerar os valores aleatorios. Ja no for ele iria fazer um loop para gerar as 4
+imagens aleatorio e mandar um push, toda as 4 vez que ele rodasse iria gerar o codigo ou id dos personagens
+
+Na parte do then.(data) eu fiquei vendo na aula 04 como encontrar o nome
+e imagem, fiz muitas alterações ate achar a maneira certa de puxar e colocar as infor
+onde eu queria que era o nome do Personagem na <h3>.
+
+
+<Resumo>
+
+Esse foi o projeto final, no inicio eu achei que ia ser tranquilo mas a medida que eu 
+chegava proximo de terminar ia ficando mais difil. Colocando a mão na massa, eu aprendi
+a ler a documentação no w3School o que é bem facil, aprendi também que quase todas as 
+duvidas ja tem uma resposta no site do StackoverFlow, eu ja tinha ouvido falar desse 
+site mas nunca fui afundo nele. 
+
+Bom é isso, acho que estou entregando tudo o que foi pedido no desafioFinal.
+ 
